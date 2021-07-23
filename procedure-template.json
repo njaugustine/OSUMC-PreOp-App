@@ -1,0 +1,6 @@
+{
+    "id": "INT",
+    "description": "TEXT",
+    "additional_info": "TEXT",
+    "options": "ARRAY (OBJECT {TEXT, id})"
+}
